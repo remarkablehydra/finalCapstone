@@ -1,5 +1,5 @@
-# finalCapstone
-Sentiment Analysis Program 
+# finalCapstone - Sentiment Analysis Program 
+
 The objective of my final Capstone project during my training at HyperionDev was to design a Python program to perform sentiment analysis on a designated dataset of Amazon text-based product reviews using spaCy and TextBlob by:
     Loading the spaCy model in English.
     Preprocessing the text data by removing stopwords and performing basic text cleaning.
